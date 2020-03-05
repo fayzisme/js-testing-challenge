@@ -1,0 +1,15 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "> Functional programming adalah paradigma pemrograman yang berkutat pada komputasi yang terjadi di dalam fungsi matematis dan menghindari terjadinya perubahan data.Yang dimaksud dengan fungsi matematis sendiri adalah sebuah hubungan antara input yang akan mengembalikan output. Contoh paling sederhana adalah sebuah fungsi kuadrat, misalnya f(x) = x * x. contohnya f(5) = 25.[ sumber](https://medium.com/@adhywiranata/mengenal-paradigma-functional-programming-di-javascript-59d5eea7e2ac)",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "fayzisme",
+  "license": "ISC"
+}
